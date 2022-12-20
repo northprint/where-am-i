@@ -7,7 +7,7 @@
 
     function handleButtonClick() {
         const platform = new H.service.Platform({
-            'apikey': '-1q8bJ_FEXXwhNNNXMeNBj_UGBAb1qPyz9HmPwnpeBA'
+            'apikey': ''
         });
         const service = platform.getSearchService();
 
